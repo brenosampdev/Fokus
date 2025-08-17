@@ -11,10 +11,10 @@ const musicaFocoInput = document.querySelector('#alternar-musica');
 const iniciarOuPausarBt = document.querySelector('#start-pause span')
 const iconeBtTemp = document.querySelector('.app__card-primary-butto-icon')
 const tempoNaTela = document.querySelector('#timer')
-const musica = new Audio('/sons/luna-rise-part-one.mp3')
-const somComecar = new Audio('/sons/play.wav')
-const somPausar = new Audio('/sons/pause.mp3')
-const somTempoEsgotado = new Audio('/sons/beep.mp3')
+const musica = new Audio('./sons/luna-rise-part-one.mp3')
+const somComecar = new Audio('./sons/play.wav')
+const somPausar = new Audio('./sons/pause.mp3')
+const somTempoEsgotado = new Audio('./sons/beep.mp3')
 
 let tempoDecorridoEmSegundos = 1500
 let intervaloId = null
