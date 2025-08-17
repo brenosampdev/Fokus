@@ -37,5 +37,6 @@ O objetivo é aplicar conceitos de **manipulação do DOM**, eventos e boas prá
    git clone https://github.com/brenosampdev/Fokus.git
 2. Abra o arquivo `index.html` no navegador
 3. Escolha um modo (*Foco*, *Descanso Curto* ou *Descanso Longo*) e inicie o temporizador 🎯
-
+- Ou você pode acessar pelo link abaixo: 👇
+https://brenosampdev.github.io/Fokus
 ---
